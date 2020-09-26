@@ -143,14 +143,10 @@ border-bottom-right-radius: 8px;
     z-index: -1;
 }
 .section .content{
-	height: 100%;
-    width: 71.9%;
-    position: absolute;
-    display: inline-flex;
-    justify-content: center;
-    align-items: flex-start;
+	width: 70.9%;
+    line-height: 1.8;
+    display: inline-block;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-	line-height: 1.8;
 }
 
 /* Current Content Information */
@@ -158,9 +154,10 @@ border-bottom-right-radius: 8px;
     background-color: #ffffff;
     border-radius: 8px;
     box-shadow: 1px 1px 5px 0px #2a30634f;
-    position: absolute;
-    width: 93%;
+    width: 95%;
     margin-top: 25px;
+    padding: 5px;
+    margin: auto;
 }
 .content-title h2{
 	text-align:center;
@@ -171,7 +168,8 @@ border-bottom-right-radius: 8px;
 	 font-size:20px;
 }
 .content-info{
-	margin-top: 110px;
+	margin: auto;
+	width: 95%;
 }
 .content-info h2{
 	text-align:center;
