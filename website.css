@@ -14,7 +14,7 @@ body{
   overflow: hidden;
   background-color: #fcfcfc;
   height: 60px;
-  box-shadow: 0px -6px 12px 0px rgba(0,0,0,0.75);
+  box-shadow: 5px 14px 10px -18px rgba(0,0,0,0.75);
 }
 .navbar img{
 	width: 200px;
