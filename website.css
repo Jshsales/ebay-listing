@@ -93,6 +93,7 @@ border-bottom-right-radius: 8px;
   display: block;
   text-align: left;
   transition: .2s;
+  cursor: pointer;
 }
 .dropdown-content a:last-child{
 	border-bottom-left-radius: 8px;
