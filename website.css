@@ -149,6 +149,8 @@ border-bottom-right-radius: 8px;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     position: relative;
     z-index: -1;
+    position: absolute;
+    margin-top: 20px;
 }
 
 /* Current Content Information */
